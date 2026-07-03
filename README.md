@@ -31,16 +31,6 @@ ScamRadar is a cutting-edge AI-powered platform designed to protect users from s
 
 ---
 
-### **👨‍💻 Developers**
-
-- **Sarvesh Wani** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sarveshwani0501) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-wani-205104297/)
-
-- **Sarish Sonawane** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Sarish05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarish-sonawane-6a14b6293)
-
-- **Om Gholap** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/omgholap11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/om-gholap-4b011b293)
-
----
-
 ## 🚀 Key Features
 
 ### 🔍 **Intelligent Analysis**
@@ -176,7 +166,7 @@ graph TB
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Sarish05/ScamRadar.git
+git clone https://github.com/frozen-02/ScamRadar.git
 cd ScamRadar
 ```
 
@@ -280,10 +270,6 @@ For enterprise customers, we offer:
 
 **⭐ Star this repository if you find it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/Sarish05/ScamRadar?style=social)](https://github.com/Sarish05/ScamRadar/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Sarish05/ScamRadar?style=social)](https://github.com/Sarish05/ScamRadar/network)
-
----
 
 *Built by ScamRadar Team*
 
